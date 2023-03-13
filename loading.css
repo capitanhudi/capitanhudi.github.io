@@ -1,9 +1,7 @@
 body{
-  background-image: url('https://media.tenor.com/BRDnAfz1WfsAAAAd/hacker.gif');
-  background-size: cover;   
-  height: 100vh;
-  padding:0;
-  margin:0;
+  background: url('4khacker.jpg');
+  background-position: center;
+  background-size: cover;
   font-family: sans-serif;
 }
 
@@ -17,7 +15,7 @@ body{
 }
 
 .text{
-  color: rgba(171, 171, 179, 0.705);
+  color: rgba(171, 171, 179, 0.849);
   margin-bottom: 25px;
   font-size: 20px;
   letter-spacing: 2px;
